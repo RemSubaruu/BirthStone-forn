@@ -1,0 +1,7 @@
+table, td{
+      width: 70%; /* 親要素の70%の幅 */
+    }
+
+p {
+    text-align: center;
+}
